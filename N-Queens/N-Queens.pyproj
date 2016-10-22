@@ -12,6 +12,7 @@
     <OutputPath>.</OutputPath>
     <Name>N-Queens</Name>
     <RootNamespace>N-Queens</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
